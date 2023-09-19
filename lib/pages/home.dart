@@ -140,7 +140,7 @@ class _HomePageState extends State<HomePage> {
         const Padding(
           padding: EdgeInsets.all(8.0),
           child: Text(
-            'Category',
+            'Treanding',
             style: TextStyle(
               color: Colors.black,
               fontSize: 18,
